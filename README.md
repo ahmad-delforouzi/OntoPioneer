@@ -23,8 +23,6 @@ Data Retrieval: The notebook shows how to retrieve relevant data based on your S
 
 Data Visualization: Techniques for visualizing the retrieved data are also covered.
 
-You can experiment with the attached notebook (MX3D.ipynb) in a live environment on Google Colab ([link here](https://colab.research.google.com/drive/1eqG2AVu0r5KJivyZxPeOxzbt65Zllxdp#scrollTo=IMemo6g-P63M)).
-
 ## Ontology Inferring Examples:
 
 The following diagram illustrates the process of inferring a Thermomechanical Simulation Model from the MPCCI ontologies. This inferred model will be used for the MX3D use case within the PIONEER project.
