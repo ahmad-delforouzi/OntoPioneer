@@ -7,9 +7,11 @@ Facilitate knowledge sharing and data integration within the Open Innovation Pla
 Inferred from MPCCI Ontologies by Fraunhofer SCAI.
 
 ## Documentation: 
-Refer to the following link for the MPCCI ontology documentation: [Link]
+Refer to the following link for the MPCCI ontology documentation: 
+[Link](https://www.researchgate.net/publication/345811171_Whitepaper_ONTOLOGIES_FOR_DIGITAL_TWINS_IN_SMART_MANUFACTURING)
 
-This Jupyter Notebook (MX3D.ipynb) demonstrates how to access and interact with the Steel Additive Manufacturing (AM) ontology using Python.
+## How to use ontology to find proper data: 
+This Jupyter Notebook [MX3D.ipynb](https://github.com/ahmad-delforouzi/OntoPioneer/blob/main/MX3D.ipynb) demonstrates how to access and interact with the Steel Additive Manufacturing (AM) ontology using Python.
 
 ## Key functionalities:
 
