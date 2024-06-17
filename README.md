@@ -1,4 +1,4 @@
-This repository contains ontologies for an Open Innovation Platform focused on Steel-based Additive Manufacturing (AM) and Sheet Metal Cutting (SMC) production. These ontologies are designed to be inferred from the MPCCI Ontologies developed by Fraunhofer SCAI.
+This repository contains ontologies for an Open Innovation Platform focused on Steel-based Additive Manufacturing (AM) and SMC production. These ontologies are designed to be inferred from the MPCCI Ontologies developed by Fraunhofer SCAI.
 
 ## Purpose: 
 Facilitate knowledge sharing and data integration within the Open Innovation Platform (OIP) for Steel AM and SMC.
