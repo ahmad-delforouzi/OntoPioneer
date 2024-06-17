@@ -14,8 +14,11 @@ This Jupyter Notebook (MX3D.ipynb) demonstrates how to access and interact with 
 ## Key functionalities:
 
 Ontology Access: The notebook guides you through connecting to the Steel AM ontology.
+
 SPARQL Queries: You'll learn how to formulate SPARQL queries to perform semantic searches on the ontology.
+
 Data Retrieval: The notebook shows how to retrieve relevant data based on your SPARQL queries.
+
 Data Visualization: Techniques for visualizing the retrieved data are also covered.
 
 You can experiment with the attached notebook (MX3D.ipynb) in a live environment on Google Colab ([link here](https://colab.research.google.com/drive/1eqG2AVu0r5KJivyZxPeOxzbt65Zllxdp#scrollTo=IMemo6g-P63M)).
